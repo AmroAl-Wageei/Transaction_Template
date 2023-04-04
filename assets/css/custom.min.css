@@ -1,2 +1,25 @@
-
+/* .multi_select_box {
+  width: 300px;
+  margin: 80px auto;
+}
+.multi_select_box select {
+  width: 100%;
+} */
+.multi {
+  width: 250px;
+  max-width: 100%;
+}
+label {
+  display: block;
+  font-size: 14px;
+  margin-top: 9px;
+  font-weight: 700;
+  color: #2e2929;
+  margin-bottom: 5px;
+  width: 100px;
+}
+.vscomp-toggle-button {
+  padding: 10px 30px 10px 10px;
+  border-radius: 5px;
+}
 /*# sourceMappingURL=custom.min.css.map */
